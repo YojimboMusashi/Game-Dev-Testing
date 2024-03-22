@@ -1,13 +1,14 @@
-﻿  win32_platform.cpp
-D:\C++\start fresh 03.12.22\Start Over\renderer.cpp(56,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
-D:\C++\start fresh 03.12.22\Start Over\renderer.cpp(57,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
-D:\C++\start fresh 03.12.22\Start Over\renderer.cpp(58,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
-D:\C++\start fresh 03.12.22\Start Over\renderer.cpp(59,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
-D:\C++\start fresh 03.12.22\Start Over\renderer.cpp(67,8): warning C4804: '<': unsafe use of type 'bool' in operation
-D:\C++\start fresh 03.12.22\Start Over\player.h(23,7): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
-D:\C++\start fresh 03.12.22\Start Over\player.h(24,7): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
-D:\C++\start fresh 03.12.22\Start Over\Enemy.h(66,7): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
-D:\C++\start fresh 03.12.22\Start Over\Enemy.h(67,7): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
-D:\C++\start fresh 03.12.22\Start Over\ship.h(66,7): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
-D:\C++\start fresh 03.12.22\Start Over\ship.h(67,7): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
-  Start Over.vcxproj -> D:\C++\start fresh 03.12.22\Start Over\x64\Debug\Start Over.exe
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(514,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Start Over.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  win32_platform.cpp
+D:\C++\C++ Git Repos\Game Testing\Game-Dev-Testing\renderer.cpp(78,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\C++\C++ Git Repos\Game Testing\Game-Dev-Testing\renderer.cpp(79,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\C++\C++ Git Repos\Game Testing\Game-Dev-Testing\renderer.cpp(80,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\C++\C++ Git Repos\Game Testing\Game-Dev-Testing\renderer.cpp(81,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\C++\C++ Git Repos\Game Testing\Game-Dev-Testing\renderer.cpp(89,8): warning C4804: '<': unsafe use of type 'bool' in operation
+D:\C++\C++ Git Repos\Game Testing\Game-Dev-Testing\bouncyball.h(23,7): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+D:\C++\C++ Git Repos\Game Testing\Game-Dev-Testing\bouncyball.h(24,7): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+D:\C++\C++ Git Repos\Game Testing\Game-Dev-Testing\Enemy.h(66,7): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+D:\C++\C++ Git Repos\Game Testing\Game-Dev-Testing\Enemy.h(67,7): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+D:\C++\C++ Git Repos\Game Testing\Game-Dev-Testing\player.h(81,7): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+D:\C++\C++ Git Repos\Game Testing\Game-Dev-Testing\player.h(82,7): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+  Start Over.vcxproj -> D:\C++\C++ Git Repos\Game Testing\Game-Dev-Testing\x64\Debug\Game Dev Testing.exe

@@ -29,13 +29,13 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="player.h">
+    <ClInclude Include="bouncyball.h">
       <Filter>Source Files</Filter>
     </ClInclude>
     <ClInclude Include="Enemy.h">
       <Filter>Source Files</Filter>
     </ClInclude>
-    <ClInclude Include="ship.h">
+    <ClInclude Include="player.h">
       <Filter>Source Files</Filter>
     </ClInclude>
   </ItemGroup>
