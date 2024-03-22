@@ -1,0 +1,13 @@
+﻿  win32_platform.cpp
+D:\C++\start fresh 03.12.22\Start Over\renderer.cpp(56,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\C++\start fresh 03.12.22\Start Over\renderer.cpp(57,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\C++\start fresh 03.12.22\Start Over\renderer.cpp(58,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\C++\start fresh 03.12.22\Start Over\renderer.cpp(59,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\C++\start fresh 03.12.22\Start Over\renderer.cpp(67,8): warning C4804: '<': unsafe use of type 'bool' in operation
+D:\C++\start fresh 03.12.22\Start Over\player.h(23,7): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+D:\C++\start fresh 03.12.22\Start Over\player.h(24,7): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+D:\C++\start fresh 03.12.22\Start Over\Enemy.h(66,7): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+D:\C++\start fresh 03.12.22\Start Over\Enemy.h(67,7): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+D:\C++\start fresh 03.12.22\Start Over\ship.h(66,7): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+D:\C++\start fresh 03.12.22\Start Over\ship.h(67,7): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+  Start Over.vcxproj -> D:\C++\start fresh 03.12.22\Start Over\x64\Debug\Start Over.exe
